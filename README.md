@@ -84,7 +84,7 @@ Analytical honesty
 Awareness of real-world data constraints
 Understanding of experimental vs observational analysis
 Rather than weakening the analysis, this makes it more credible.
-✅ WHAT THE CREATOR SHOULD START DOING
+ WHAT THE CREATOR SHOULD START DOING
 1. Treat Titles & Thumbnails as the Primary Growth Lever
 
 Because Competitors have ~40–60% higher CTR
@@ -101,8 +101,8 @@ Always include: A human face with a visible emotion
 
 Example shift:
 
-❌ “Complete React Tutorial for Beginners”
-✅ “I Built My First React App in 7 Days — Here’s What Broke”
+ “Complete React Tutorial for Beginners”
+ “I Built My First React App in 7 Days — Here’s What Broke”
 
 
 
